@@ -6,6 +6,7 @@
 
 *Click a lobe. Explore a section. Rotate the brain.*
 
+**URL**: https://cv-two-ochre.vercel.app/
 
 ---
 

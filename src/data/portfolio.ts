@@ -98,7 +98,6 @@ export const SECTION_DATA: Record<SectionId, unknown> = {
       {
         name: "Frontend (React.js) School",
         org: "Cognity",
-
         icon: "🎓",
       },
       {
@@ -132,7 +131,7 @@ export const SECTION_DATA: Record<SectionId, unknown> = {
         name: "Brain Portfolio",
         description: "Interactive 3D portfolio site using Three.js and Next.js",
         tech: ["React", "Next.js", "TypeScript"],
-        url: "https://github.com/yourname/chat-app",
+        url: "https://github.com/michailangeletopoulos/cv",
       },
     ],
   },
@@ -160,8 +159,8 @@ export const SECTION_DATA: Record<SectionId, unknown> = {
       {
         icon: "🌐",
         label: "Website",
-        value: "yourname.dev",
-        href: "https://yourname.dev",
+        value: "cv-two-ochre.vercel.app",
+        href: "https://cv-two-ochre.vercel.app/",
       },
     ],
   },

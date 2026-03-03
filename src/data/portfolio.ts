@@ -19,7 +19,7 @@ export const LOBES: {
   { id: "skills",     label: "Skills",      color: "#4ff8c0", icon: "⚡" },
   { id: "experience", label: "Experience",  color: "#7b61ff", icon: "💼" },
   { id: "education",  label: "Education",   color: "#ff6b6b", icon: "🎓" },
-  { id: "seminars",   label: "Seminars",    color: "#f5a623", icon: "📚" },
+  { id: "seminars",   label: "Certifications",    color: "#f5a623", icon: "📚" },
   { id: "hobbies",    label: "Projects",    color: "#50c8ff", icon: "🚀" },
   { id: "contact",    label: "Contact",     color: "#c084fc", icon: "✉️"  },
 ];
@@ -96,9 +96,14 @@ export const SECTION_DATA: Record<SectionId, unknown> = {
   seminars: {
     items: [
       {
+        name: "Pedagogical and Teaching Competence Certificate (PE86 – Informatics)",
+        org: "University of Piraeus",
+        icon: "👨‍🏫",
+      },
+      {
         name: "Frontend (React.js) School",
         org: "Cognity",
-        icon: "🎓",
+        icon: "⚛️",
       },
       {
         name: "The Founder’s Journey: 5 Steps to Build your Startup",
